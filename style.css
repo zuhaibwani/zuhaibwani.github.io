@@ -1,0 +1,88 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+
+#header {
+    background-color: rgb(0, 0, 0);
+    height: 40px;
+    padding: 15px;
+}
+
+.logo {
+    width: 40%;
+    float: left;
+    color: rgb(177, 187, 131);
+    text-align: center;
+}
+
+.menu {
+    width: 60%;
+    float: right;
+    text-align: center;
+}
+
+a {
+    padding-right: 20px;
+    text-decoration: none;
+    color: rgb(177, 187, 131);
+    font-size: 20px;
+}
+
+body {
+    background: linear-gradient(80deg, rgb(3, 20, 3), rgb(133, 12, 12));
+    height: 2000px;
+}
+
+.title {
+    margin-top: 30px;
+    color: beige;
+    text-align: center;
+    font-size: 50px;
+}
+
+h1 span {
+    color: rgb(41, 168, 168)
+}
+
+.t2 {
+    text-align: center;
+    margin: 30px auto;
+    width: 500px;
+    border-radius: 50%;
+    background: linear-gradient( 50deg, rgb(48, 131, 134), rgb(40, 129, 74));
+    padding: 15px 0px;
+    color: black;
+}
+
+p {
+    margin-top: 20px;
+    text-align: center;
+    padding: 0px 20px;
+}
+
+table {
+    width: 100%;
+    margin-top: 30px;
+    text-align: center;
+}
+
+img {
+    border-radius: 10px;
+}
+
+td {
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(97, 91, 7);
+}
+
+#footer {
+    margin-top: 100px;
+    background-color: black;
+    color: blanchedalmond;
+    text-align: center;
+    height: 80px;
+    padding-top: 5px;
+}
